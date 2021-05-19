@@ -11,4 +11,14 @@ DssFactory has performed data analysis specially designed to comply with all the
 - Low Flow Regulation
 - Leakage Prevention
 - Pump operation and control
-- tank and reservoirs level Control.
+- tank and reservoirs level Control
+- analysis of water demands, including smart water meters
+
+
+For open channels and rivers DssFactory offers a variety of data analysis:
+- Data quality control
+- dashboard monitoring (open source and commercial)
+- Monitoring of large data collections
+- forecasting of time series patterns
+
+
