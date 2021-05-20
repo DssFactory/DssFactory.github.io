@@ -19,4 +19,4 @@ We make use of different standards and libraries for diverse file formats
 - HDF
 - netCDF
 
-In some projects DssFactory has delivered the necessary input for numerical simulation, or the visualization of results of large numerical simulations. If necessary, we can also build the numerical simulation within a cloud service such as Amazon AWS or Microfot Azure.
+In some projects DssFactory has delivered the necessary input for numerical simulation, or the visualization of results of large numerical simulations. If necessary, we can also build the numerical simulation within a cloud service such as Amazon AWS or Microsoft Azure.
