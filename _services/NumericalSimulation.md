@@ -11,6 +11,12 @@ DssFactory has participated in projects where numerical simulations with all of 
 - Deltares D and G software
 - USACE HEC software
 - EPA pipe hydraulics EPANET and sewer systems SWMM software
+
+We make use of different standards and libraries for diverse file formats
 - OpenFM
 - OpenDA
-- 
+- OpenCV
+- HDF
+- netCDF
+
+In some projects DssFactory has delivered the necessary input for numerical simulation, or the visualization of results of large numerical simulations. If necessary, we can also build the numerical simulation within a cloud service such as Amazon AWS or Microfot Azure.
