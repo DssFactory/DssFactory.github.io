@@ -1,8 +1,8 @@
-url: 'http://www.dssfactory.com'
+url: 'https://www.dssfactory.com'
 baseurl: '/'
 
 permalink: pretty
-title: 'DssFactory'
+title: 'DssFactory, Decision Support System Factory'
 
 google_analytics_id: ""
 
@@ -15,12 +15,12 @@ logo:
   desktop_height: "36px"
 
 footer:
-  copyright_text: 'Copyright by <a class="zerostatic" href="http://www.dssfactory.com<">www.dssfactory.com</a>'
+  copyright_text: 'Copyright by <a class="zerostatic" href="https://www.dssfactory.com<">www.dssfactory.com</a>'
 
 seo:
   meta_og_title: "DssFactory"
   meta_og_type: "website"
-  meta_og_url: "http://www.dssfactory.com"
+  meta_og_url: "https://www.dssfactory.com"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "The Company aims at the development tailor made solutions using and combining concepts of physics, data mining and ICT."
   meta_twitter_card: "summary"
