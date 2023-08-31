@@ -1,6 +1,6 @@
 [
   {
-    "title": "Data Analysis",
+    "title": "Analysis",
     "description": "Spatial-temporal data, Structure nad non-structure data",
     "image": "images/features/features-analysis.svg"
   },
@@ -10,7 +10,7 @@
     "image": "images/features/features-simulation.svg"
   },
   {
-    "title": "Artificial Intelligence",
+    "title": "Intelligence",
     "description": "Machine learning, Deep learning, Natural Language Processing",
     "image": "images/features/features-ai.svg"
   }
