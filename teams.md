@@ -1,11 +1,12 @@
 ---
-title: Team
+title: Teams
 layout: teams
-permalink: /team/
+permalink: /teams/
+intro_image: "images/illustrations/DSS_Teams-color.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Meet The Teams
 
 Our team of qualified researchers and developers can help your decision at any stage of it's growth.

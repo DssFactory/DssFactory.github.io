@@ -10,7 +10,7 @@ homepage:
   show_call_box: true
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/DSS_Logo-256x256.svg"
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 
@@ -31,7 +31,7 @@ seo:
 collections:
   services:
     output: true
-  team:
+  teams:
     output: true
 
 sass:

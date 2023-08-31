@@ -339,8 +339,8 @@ models:
             value: team
   teams:
     type: page
-    label: Team Overview
-    file: team.md
+    label: Teams Overview
+    file: teams.md
     singleInstance: true
     fields:
       - type: string
@@ -360,8 +360,8 @@ models:
         name: intro_image_hide_on_mobile
         label: Intro Image Hide On Mobile
         description: Hide the intro image on mobile screen sizes
-      - type: string
-        name: permalink
+      # - type: string
+      #   name: permalink
       - type: enum
         name: layout
         options:
