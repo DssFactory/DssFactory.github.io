@@ -6,7 +6,7 @@ image: "images/team/Quan_Pan.jpg"
 jobtitle: "Manager"
 linkedinurl: "https://www.linkedin.com/in/quanpan302"
 promoted: true
-weight: 2
+weight: 1
 layout: team
 ---
 
