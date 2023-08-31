@@ -1,17 +1,17 @@
 [
   {
-    "title": "Geographic Information System",
-    "description": "Capture and analyze spatial and geographic data.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "Data Analysis",
+    "description": "Spatial-temporal data, Structure nad non-structure data",
+    "image": "images/features/features-analysis.svg"
+  },
+  {
+    "title": "Simulation",
+    "description": "Hydraulic, Hydrodynamic, Water Quality",
+    "image": "images/features/features-simulation.svg"
   },
   {
     "title": "Artificial Intelligence",
-    "description": "Machine learning, Deep learning.",
-    "image": "images/features/noun_The Process_1885341.svg"
-  },
-  {
-    "title": "Optimization",
-    "description": "Select a best element, with regard to some criterion, from some set of available alternatives.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "description": "Machine learning, Deep learning, Natural Language Processing",
+    "image": "images/features/features-ai.svg"
   }
 ]
