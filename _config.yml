@@ -15,7 +15,8 @@ logo:
   desktop_height: "36px"
 
 footer:
-  copyright_text: 'Copyright by <a class="zerostatic" href="https://www.dssfactory.com<">www.dssfactory.com</a>'
+  # copyright_text: 'Copyright by <a class="zerostatic" href="https://www.dssfactory.com">www.dssfactory.com</a>'
+  copyright_text: 'KVK-nummer: 62722093'
 
 seo:
   meta_og_title: "DssFactory"
