@@ -21,7 +21,7 @@ bodyClass: page-teams-list
 <div class="container pt-6 pb-6">
     <div class="row">
         {% assign weighted_teams = site.teams | where: "promoted", true | sort: "weight" %}
-        {% for team in promoted_teams %}
+        {% for team in weighted_teams %}
         <div class="col-12 col-md-6 mb-2">
             <div class="team team-summary team-summary-large">
                 {% if team.image %}
@@ -42,8 +42,8 @@ bodyClass: page-teams-list
         {% endfor %}
     </div>
     <div class="row pt-6 pb-6">
-        {% assign teams = site.teams | where: "promoted", empty | sort: "weight" %}
-        {% for team in teams %}
+        {% assign weighted_teams = site.teams | where: "promoted", empty | sort: "weight" %}
+        {% for team in weighted_teams %}
         <div class="col-12 col-md-4 mb-3">
             <div class="team team-summary">
                 {% if team.image %}
