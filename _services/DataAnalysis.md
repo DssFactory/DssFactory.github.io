@@ -4,6 +4,9 @@ date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 3
 layout: service
+intro_image: "images/services/DF-Simulation.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 ---
 
 DssFactory has performed data analysis specially designed to comply with all the demands of waterworks systems such as: 
