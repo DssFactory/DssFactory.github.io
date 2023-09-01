@@ -4,6 +4,9 @@ date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
 layout: service
+intro_image: "images/services/DF-Simulation.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 ---
 
 DssFactory has participated in projects where numerical simulations with all of the following software packages were performed:
