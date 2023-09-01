@@ -2,7 +2,7 @@ url: 'https://www.dssfactory.com'
 baseurl: '/'
 
 permalink: pretty
-title: 'DssFactory, Decision Support System Factory'
+title: 'DssFactory'
 
 google_analytics_id: ""
 
@@ -10,8 +10,8 @@ homepage:
   show_call_box: true
 
 logo:
-  mobile: "images/logo/DSS_Logo-256x256.svg"
-  desktop: "images/logo/logo.svg"
+  mobile: "images/logo/DF_Logo-256x256.svg"
+  desktop: "images/logo/DF_logo.svg"
   desktop_height: "36px"
 
 footer:
