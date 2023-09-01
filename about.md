@@ -1,7 +1,6 @@
 ---
 title: About
 layout: about
-bodyClass: page-about
 intro_image: "images/illustrations/DF_About-color.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
