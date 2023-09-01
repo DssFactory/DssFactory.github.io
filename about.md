@@ -1,9 +1,13 @@
 ---
-title: 'About'
-date: 2018-02-22T17:01:34+07:00
-layout: page
+title: About
+layout: about
 bodyClass: page-about
+intro_image: "images/illustrations/DF_About-color.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 ---
+
+# Decision Support System Factory
 
 We develop a Decision Support System (DSS) for early warning and forecasting systems that uses remote sensing data and state-of-the-art hydraulic, hydrodynamic, and meteorological models, available as freeware. We also integrate advanced AI technologies into the DSS to improve its accuracy and performance.
 
