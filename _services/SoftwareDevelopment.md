@@ -26,7 +26,10 @@ DssFactory can provide service of designing, programming, documenting, testing, 
 
 ## How do we work:
 
-- **Version control system**: Track changes to the code. This will help you to keep track of the changes you have made and to revert to a previous version if necessary.
-- **Bug tracking system**: Track bugs and issues. This will help you to prioritize the bugs and to track their progress.
-- **Continuous integration and continuous delivery (CI/CD) pipeline**: Automate the testing and deployment of the software. 
-- **Feedback and maintenance**: After the product has launched for several reasons including improving the software overall, correcting issues or bugs, to boost performance.
+- **Development**: In this phase, developers write and test code in a collaborative environment.
+- **Integration**: The code is integrated into a shared repository, and automated tests are run to ensure that the code is functional.
+- **Testing**: The code is tested continuously to ensure that it meets the required quality standards.
+- **Monitoring**: The application is monitored continuously to identify and resolve issues before they become critical.
+- **Delivery**: The application is deployed to production in a continuous manner, ensuring that new features are delivered quickly and efficiently.
+- **Deployment**: The application is automatically deployed to production without any manual intervention.
+- **Feedback**: Feedback is collected from users and stakeholders, which is used to improve the application.
