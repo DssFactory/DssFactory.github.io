@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:54+10:00
 featured: true
 weight: 4
 layout: service
-intro_image: "images/services/DF-Simulation.svg"
+intro_image: "images/services/DF-App.jpeg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
