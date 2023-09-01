@@ -3,7 +3,7 @@ title: About
 layout: about
 intro_image: "images/illustrations/DF_About-color.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 ---
 
 # Decision Support System Factory
