@@ -5,25 +5,25 @@ layout: page
 bodyClass: page-about
 ---
 
-We develop Decision Support System for early warning and forecast systems based on remote sensing data by integration with state of the art hydraulic, hydrodynamic and meteorological models available as freeware, as well as advanced AI technologies.
+We develop a Decision Support System (DSS) for early warning and forecasting systems that uses remote sensing data and state-of-the-art hydraulic, hydrodynamic, and meteorological models, available as freeware. We also integrate advanced AI technologies into the DSS to improve its accuracy and performance.
 
 ## Mission
 
-The Company aims at the development tailor made solutions using and combining concepts of physics, data mining and ICT.
- We want to provide technological solutions mainly for water resource problem in different areas.
- Our framework is not limited to water problems, however, is the center of our technological developments as well as our main area of expertise.
- We work with experts in Hydraulics, Hydrology, Hydroinformatics, Ecoinformatics, Bioinformatics and other advanced web technologies.
+The company aims to develop customized solutions that combine physics, data mining, and ICT concepts. We want to provide technological solutions for water related problems in various areas. While our framework is not limited to water problems, it is the focus of our technological development and our main area of expertise. We collaborate with experts in hydraulics, hydrology, hydroinformatics, ecoinformatics, bioinformatics, and other cutting-edge technologies.
 
 ## Vision
 
-It is our aim to be positioned as leading company in Inform and Communicate technologies for water resources problem.
-We expect to contribute to the SDG by have a global coverage and the possibility for pert of a continuous interacting company for the NEXUS concept (WATER, FOOD and ENERGY).
+We aim to be a leading company in information and communication technologies for water resources problems. We believe that we can contribute to the Sustainable Development Goals (SDGs) by having a global reach and by being part of a network of organizations that are working together to address the nexus of water, food, and energy.
 
 ## Areas of Expertise
 
-- Forecast for reservoir operation
-- Flood forecasting system
-- Costal systems modelling
-- River modeling
-- Water systems network modelling 
-- Advanced ICT applications
+- Water distribution network
+- Computational fluid dynamics
+
+- Data analysis
+- multi-single objective optimization
+- Artificial intelligence
+
+- Digital twins
+- Software development
+- ICT applications
