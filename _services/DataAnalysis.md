@@ -15,7 +15,7 @@ Data analysis is the process of inspecting, cleaning, transforming, and modeling
 
 ## Our service:
 
-DssFactory has experience in data analysis. 
+DssFactory has experience in spatial-temporal data analysis. 
 
 1. Define the business question: What do you want to learn from the data?
 2. Collect the data: This can be done through surveys, interviews, experiments, or other methods.
@@ -27,8 +27,8 @@ DssFactory has experience in data analysis.
 
 ## How do we work:
 
-- Data quality control
-- dashboard monitoring (open source and commercial)
-- Monitoring of large data collections
-- forecasting of time series patterns
-- water quality analysis
+- **Define your goals**: What do you want to achieve with your data analysis? What questions do you want to answer?
+- **Collect your data**: Where will you get your data from? How will you collect it?
+- **Clean and prepare your data**: Make sure your data is accurate, complete, and consistent.
+- **Analyze your data**: Use statistical methods to find patterns and trends in your data.
+- **Visualize and interpret your results**: Use charts and graphs to communicate your findings to others.
