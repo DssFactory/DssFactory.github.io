@@ -1,19 +1,19 @@
 ---
-title: "Data Analysis"
-date: 2018-11-18T12:33:46+10:00
+title: "Taihu Lake"
+date: 2025-04-15T22:33:46+10:00
 featured: true
-weight: 3
-layout: service
-intro_image: "images/services/DF-Analysis.jpeg"
+weight: 4
+layout: project
+intro_image: "images/projects/DF-Taihu.jpeg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-**Let’s dive into the data!**
+**Intro**
 
 Data analysis involves inspecting, cleaning, transforming, and modeling data to uncover valuable insights, guide conclusions, and support informed decision-making. It encompasses a wide range of methods and approaches, drawing from various disciplines including business, science, and the social sciences—each applying different techniques under diverse terminologies.
 
-## Our service:
+## Objectives:
 
 DssFactory offers deep expertise in delivering data analysis solutions, supporting diverse data types, and providing customized analytical services designed to meet unique requirements.
 
@@ -25,7 +25,7 @@ DssFactory offers deep expertise in delivering data analysis solutions, supporti
 6. Interpret the results: This involves explaining what the results mean and how they can be used to answer the business question.
 
 
-## How do we work:
+## Results:
 
 - **Define your goals**: What do you want to achieve with your data analysis? What questions do you want to answer?
 - **Collect your data**: Where will you get your data from? How will you collect it?

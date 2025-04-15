@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Our Projects
+# Projects
 
 Our team of qualified researchers and developers can help your decision at any stage of it's growth.
