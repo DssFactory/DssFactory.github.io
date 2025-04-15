@@ -11,6 +11,7 @@ pageLayoutKey: null
 logicFields:
   - site_menu_item.weight
   - service.weight
+  - project.weight
   - team.weight
 models:
   config:
@@ -86,6 +87,13 @@ models:
         fields:
           - type: object
             name: services
+            fields:
+              - type: boolean
+                name: output
+              - type: string
+                name: permalink
+          - type: object
+            name: projects
             fields:
               - type: boolean
                 name: output
@@ -297,6 +305,54 @@ models:
         options:
           - label: services
             value: services
+  project:
+    type: page
+    label: Project
+    folder: _projects
+    fields:
+      - type: string
+        name: title
+      - type: date
+        name: date
+      - type: boolean
+        name: draft
+      - type: boolean
+        name: featured
+      - type: number
+        name: weight
+      - type: enum
+        name: layout
+        options:
+          - label: project
+            value: project
+  projects:
+    type: page
+    label: Projects Overview
+    file: projects.md
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: image
+        name: intro_image
+        label: Intro Image
+        description: Image displayed at in the pages intro section
+      - type: boolean
+        name: intro_image_absolute
+        label: Intro Image Position
+        description: Should the image overflow or be contained
+      - type: boolean
+        name: intro_image_hide_on_mobile
+        label: Intro Image Hide On Mobile
+        description: Hide the intro image on mobile screen sizes
+      - type: enum
+        name: layout
+        options:
+          - label: projects
+            value: projects
   team:
     type: page
     label: Team
