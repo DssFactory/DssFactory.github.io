@@ -8,15 +8,15 @@ intro_image_hide_on_mobile: false
 
 # Decision Support System Factory
 
-We develop a Decision Support System (DSS) for early warning and forecasting systems that uses remote sensing data and state-of-the-art hydraulic, hydrodynamic, and meteorological models, available as freeware. We also integrate advanced AI technologies into the DSS to improve its accuracy and performance.
+We are developing a Decision Support System (DSS) for early warning and forecasting that leverages remote sensing data along with cutting-edge hydraulic, hydrodynamic, and meteorological models—utilizing freely available software. To enhance its accuracy and efficiency, we also incorporate advanced AI technologies into the system.
 
 ## Mission
 
-The company aims to develop customized solutions that combine physics, data mining, and ICT concepts. We want to provide technological solutions for water related problems in various areas. While our framework is not limited to water problems, it is the focus of our technological development and our main area of expertise. We collaborate with experts in hydraulics, hydrology, hydroinformatics, ecoinformatics, bioinformatics, and other cutting-edge technologies.
+Our company focuses on creating tailored solutions that integrate principles from physics, data mining, and information and communication technologies (ICT). We aim to deliver innovative technologies to address water-related challenges across diverse sectors. Although our framework can be applied beyond water issues, this remains the core of our technological development and primary area of expertise. We work in close collaboration with specialists in hydraulics, hydrology, hydroinformatics, ecoinformatics, bioinformatics, and other advanced technological fields.
 
 ## Vision
 
-We aim to be a leading company in information and communication technologies for water resources problems. We believe that we can contribute to the Sustainable Development Goals (SDGs) by having a global reach and by being part of a network of organizations that are working together to address the nexus of water, food, and energy.
+Our goal is to become a leading provider of information and communication technologies for addressing water resource challenges. We are committed to supporting the Sustainable Development Goals (SDGs) by extending our global impact and collaborating within a network of organizations focused on the interconnected issues of water, food, and energy
 
 ## Areas of Expertise
 
