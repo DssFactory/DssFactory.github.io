@@ -2,7 +2,7 @@
 title: "Taihu Lake"
 date: 2025-04-15T22:33:46+10:00
 featured: true
-weight: 4
+weight: 1
 layout: project
 intro_image: "images/projects/DF-Taihu.jpeg"
 intro_image_absolute: true
