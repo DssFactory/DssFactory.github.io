@@ -8,4 +8,6 @@ intro_image_hide_on_mobile: false
 
 # Projects
 
-Our team of qualified researchers and developers can help your decision at any stage of it's growth.
+DssFactory has successfully completed numerous projects in the Netherlands, Italy, and China.
+
+These projects span modeling, Geo-ICT development, spatio-temporal data analysis, and mathematical optimization.
