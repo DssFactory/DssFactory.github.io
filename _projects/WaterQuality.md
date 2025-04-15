@@ -1,10 +1,10 @@
 ---
-title: "Taihu Lake"
+title: "Water Quality"
 date: 2025-04-15T22:33:46+10:00
 featured: true
-weight: 1
+weight: 3
 layout: project
-intro_image: "images/projects/DF-Taihu.jpeg"
+intro_image: "images/projects/DF-WAQ.jpeg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
