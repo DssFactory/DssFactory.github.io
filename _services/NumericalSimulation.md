@@ -9,16 +9,21 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-**DssFactory can build complex simulation models**
+**Let's model the world!**
 
-Numerical simulation is the use of mathematical models to simulate the behavior of a physical system. It is a powerful tool that can be used to study systems that are too complex or too expensive to study experimentally. The results of the numerical simulations can be used to gain insights into the behavior of the physical system. They can also be used to make predictions about the system's behavior under different conditions.
+Numerical simulation involves using mathematical models to replicate the behavior of a physical system. It serves as a valuable tool for studying systems that are too complex or costly to analyze through experiments. The outcomes of these simulations offer insights into the system’s behavior and can also be used to predict how the system will behave under various conditions.
 
 ## Our service:
 
-DssFactory has experience in Computational Fluid Dynamics. This type of simulation can be used to study the behavior of fluids in pipes, channels, and other systems.
+DssFactory has deep expertise in water-related topics, numerical methods, and simulations.
 
-1. Water distribution network
-2. Fluvial, estuarine and coastal environments
+1. Hydrological modelling
+2. Groundwater modelling
+3. Water distribution network modelling
+4. Fluvial flood modelling
+5. Ocean modelling
+6. Sediment Transport modelling
+7. Water quality modelling
 
 ## How do we work:
 

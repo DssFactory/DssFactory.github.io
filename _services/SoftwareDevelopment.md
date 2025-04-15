@@ -9,13 +9,13 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-**DssFactory can analyze variety type of data**
+**Let’s roll up our sleeves!**
 
 Software development is a process of creating, designing, deploying, and supporting software. It involves three basic types of software: system software, programming software, and application software. System software provides core functions such as operating systems, disk management, utilities, hardware management, and other operational necessities. Programming software gives programmers tools such as text editors, compilers, linkers, debuggers, and other tools to create code. Application software (applications or apps) helps users perform tasks. Office productivity suites, data management software, media players, and security programs are examples of application software.
 
 ## Our service:
 
-DssFactory can provide service of designing, programming, documenting, testing, and bug fixing
+DssFactory can provide service of designing, programming, documenting, testing, and bug fixing.
 
 1. Requirements gathering: This phase involves gathering the needs and requirements of the software users.
 2. Design: This phase involves creating the blueprint for the software, including the user interface, the data structures, and the algorithms.
