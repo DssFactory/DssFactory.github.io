@@ -9,7 +9,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-DssFactory can build complex simulation models
+**DssFactory can build complex simulation models**
 
 Numerical simulation is the use of mathematical models to simulate the behavior of a physical system. It is a powerful tool that can be used to study systems that are too complex or too expensive to study experimentally. The results of the numerical simulations can be used to gain insights into the behavior of the physical system. They can also be used to make predictions about the system's behavior under different conditions.
 

@@ -9,7 +9,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-DssFactory can provide customized Digital Twins platform:
+**DssFactory can provide customized Digital Twins platform**
 
 A digital twin is a virtual representation of a physical object, process, system, or environment. It is a real-time simulation that can be used to monitor, analyze, and improve the performance of the physical object. Digital twins are a promising technology with the potential to improve the performance of many industries. However, there are still some challenges that need to be addressed. One challenge is the cost of creating and maintaining digital twins. Another challenge is the lack of standards for digital twins.
 

@@ -9,7 +9,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-DssFactory can analyze variety type of data
+**DssFactory can analyze variety type of data**
 
 Data analysis is the process of inspecting, cleaning, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, in different business, science, and social science domains.
 
