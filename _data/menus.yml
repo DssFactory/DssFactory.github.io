@@ -5,8 +5,10 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 3
-  - name: "Teams"
-    url: "/teams/"
+  # - name: "Teams"
+  #   url: "/teams/"
+  - name: "Projects"
+    url: "/projects/"
     weight: 4
   - name: "Contact"
     url: "/contact/"
@@ -19,6 +21,9 @@ footer:
   - name: "Services"
     url: "/services/"
     weight: 2
+  - name: "Projects"
+    url: "/projects/"
+    weight: 3
   - name: "Contact"
     url: "/contact/"
-    weight: 3
+    weight: 4
