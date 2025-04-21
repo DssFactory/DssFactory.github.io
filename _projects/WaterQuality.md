@@ -9,10 +9,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-## Intro
-
 Water quality simulation is the use of computer models to predict how different physical, chemical, and biological processes affect the quality of water in natural or engineered systems—such as rivers, lakes, reservoirs, or water treatment plants.
 
-## Solution
+## Our Solution
 
 DssFactory developed a water quality model to assist authorities in identifying optimized solutions for reducing pollutant discharge into the lake.
