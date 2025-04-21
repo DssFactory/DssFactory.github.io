@@ -9,26 +9,13 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-**Intro**
+## Intro
 
-Data analysis involves inspecting, cleaning, transforming, and modeling data to uncover valuable insights, guide conclusions, and support informed decision-making. It encompasses a wide range of methods and approaches, drawing from various disciplines including business, science, and the social sciences—each applying different techniques under diverse terminologies.
+A web-based decision support system (DSS) is a software application that helps users make informed decisions through data analysis, modeling, and visualization—accessible via a web browser.
 
-## Objectives:
+- Web-based: It runs on a server and is accessed through a web browser, so users don’t need to install anything locally.
+- Decision Support System: It combines data, models, and user-friendly interfaces to help people analyze complex problems and make better decisions.
 
-DssFactory offers deep expertise in delivering data analysis solutions, supporting diverse data types, and providing customized analytical services designed to meet unique requirements.
+## Solution
 
-1. Define the business question: What do you want to learn from the data?
-2. Collect the data: This can be done through surveys, interviews, experiments, or other methods.
-3. Clean the data: This involves removing errors and inconsistencies from the data. 
-4. Transform the data: This involves converting the data into a format that is suitable for analysis. 
-5. Model the data: This involves using statistical or machine learning techniques to find patterns in the data. 
-6. Interpret the results: This involves explaining what the results mean and how they can be used to answer the business question.
-
-
-## Results:
-
-- **Define your goals**: What do you want to achieve with your data analysis? What questions do you want to answer?
-- **Collect your data**: Where will you get your data from? How will you collect it?
-- **Clean and prepare your data**: Make sure your data is accurate, complete, and consistent.
-- **Analyze your data**: Use statistical methods to find patterns and trends in your data.
-- **Visualize and interpret your results**: Use charts and graphs to communicate your findings to others.
+DssFactory developed a web-based decision support system to help the operations team identify optimal pumping schedules for daily activities. The system is fully integrated with the client’s existing infrastructure.

@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: false
 
 # Projects
 
-DssFactory has successfully completed numerous projects in the Netherlands, Italy, and China.
+DssFactory has successfully completed projects in the Netherlands, Italy, and China.
 
 These projects span modeling, Geo-ICT development, spatio-temporal data analysis, and mathematical optimization.
